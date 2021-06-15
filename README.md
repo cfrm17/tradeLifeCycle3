@@ -38,6 +38,8 @@ Select a trade and click the New button. A new trade termination template is sho
 
 
 
-You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+References:
+
+https://finpricing.com/lib/EqVariance.html
+
 
